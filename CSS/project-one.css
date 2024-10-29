@@ -1595,6 +1595,7 @@ color: white;
     margin-top: 30px;
     width: 100%;
     height: 140vh;
+    margin-bottom: 50px;
     /* background-color: #A7A7A7; */
 }
 .top-pag9 div{
@@ -2002,6 +2003,7 @@ margin: auto;}
 .top-pag10 div .top{
     width: 100%;
     height: 70%;
+    margin-top: 10px;
     /* background-color: #b41515; */
     display: flex;
     align-content: center;
