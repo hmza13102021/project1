@@ -766,6 +766,9 @@ header .total-parts .end-part{
         
      
      }
+     .top-pag4  div  .content div div{
+       
+        flex-wrap:nowrap;}
     .top-pag4 div .content div{
         width: 45%;
         height: 30%;
